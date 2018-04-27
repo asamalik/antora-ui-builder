@@ -54,7 +54,7 @@ Preview it on [localhost:5252](http://localhost:5252).
 If you want to use your UI on an Antora docs site, you need to build a bundle using the following command:
 
 ```
-$ antora-ui-builder gulp package
+$ antora-ui-builder gulp pack
 ```
 
 See the [Antora UI docs](https://docs.antora.org/antora-ui-default/build-preview-ui/) for more info.
